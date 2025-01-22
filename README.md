@@ -28,7 +28,7 @@ Before running or deploying the project, make sure you have the following instal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CJHersh/GOSIM.org.git
+   git clone https://github.com/gosimfoundation/GOSIM.org.git
    ```
 
 2. Navigate to the project directory:
@@ -83,7 +83,7 @@ The project is configured to deploy to GitHub Pages using the `gh-pages` package
 3. **Access the Deployed Website**:
    After deployment, the website will be available at:
    ```
-   https://CJHersh.github.io/GOSIM.org/
+   https://gosimfoundation.github.io/GOSIM.org/
    ```
 
 ---
