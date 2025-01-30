@@ -2,7 +2,7 @@
   <section>
     <div class="px-5 md:px-10">
       <div class="max-w-[80rem] mx-auto">
-        <div id="founders" class="py-12 md:py-24 pt-0">
+        <div id="founders" class="py-8 md:py-12 pt-0">
           <!-- Section Header -->
           <div class="max-w-3xl mb-6 md:mb-10">
             <div class="mb-4">

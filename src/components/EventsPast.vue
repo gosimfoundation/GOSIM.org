@@ -1,5 +1,5 @@
 <template>
-  <section class="py-24 px-5 md:px-10">
+  <section class="py-8 px-5 md:px-10">
     <div class="max-w-[80rem] mx-auto">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <!-- Left Hero Section with Sticky Positioning -->

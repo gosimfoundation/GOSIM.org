@@ -90,6 +90,7 @@ export default {
         { href: "#founders", text: "Founders" },
         { href: "#events", text: "Events" },
         { href: "https://blog.gosim.org/", text: "Blog" },
+        // { href: "https://spotlight.gosim.org/", text: "Spotlight" }
       ]
     }
   },

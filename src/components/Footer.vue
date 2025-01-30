@@ -2,7 +2,7 @@
   <footer class="relative">
     <div class="px-5 md:px-10">
       <div class="max-w-[80rem] mx-auto">
-        <div class="py-12 md:py-20">
+        <div class="py-6 md:py-12">
           <!-- Top Section -->
           <div class="pb-8 md:pb-16">
             <div class="flex flex-col md:flex-row md:justify-between md:items-center space-y-8 md:space-y-0">
@@ -22,7 +22,8 @@
                 <div class="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-6">
                   <a href="#about" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">About</a>
                   <a href="#founders" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Founders</a>
-                  <a href="#tickets" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Events</a>
+                  <a href="#events" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Events</a>
+                  <a href="https://blog.gosim.org/" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Blog</a>
                 </div>
               </div>
 

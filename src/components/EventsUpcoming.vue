@@ -2,7 +2,7 @@
   <section id="tickets">
     <div id="events" class="px-5 md:px-10 pt-8 md:pt-16">
       <div class="max-w-[80rem] mx-auto">
-        <div class="py-12 md:py-24">
+        <div class="py-6 md:py-8">
           <!-- Header -->
           <div class="mb-8 md:mb-12">
             <div class="text-center">
@@ -63,21 +63,21 @@
                 <div>
                   <div class="mb-4">
                     <div class="inline-block px-4 py-1 bg-[#006d873b] text-primary rounded-2xl text-sm font-medium">
-                      RustWeek 2025
+                      RustWeek | May 13-17, 2025
                     </div>
                   </div>
 
                   <div class="mb-6 md:mb-8">
-                    <div class="text-xl md:text-2xl font-medium">2025 GOSIM Spotlight</div>
+                    <div class="text-xl md:text-2xl font-medium">2025 GOSIM Rust Spotlight</div>
                     <div class="my-2">
                       <div class="text-[3rem] font-medium leading-none">Showcasing Exceptional Rust Open-Source Projects</div>
                     </div>
                     <p class="text-sm md:text-base leading-relaxed">
-                      Welcome to GOSIM Spotlight, the program dedicated to celebrating the
+                      Welcome to GOSIM Rust Spotlight, the program dedicated to celebrating the
                       brilliance and creativity of open-source projects developed with the Rust
                       programming language. At GOSIM, we believe in empowering innovators and
                       amplifying the voices of up-and-coming developers and under-represented
-                      projects. With the GOSIM Spotlight program, we aim to put these projects in
+                      projects. With the GOSIM Rust Spotlight program, we aim to put these projects in
                       the spotlight they deserve. Are you ready to discover the future of Rust
                       development?
                     </p>

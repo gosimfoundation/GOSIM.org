@@ -2,7 +2,7 @@
   <section id="location" class="relative">
     <div id="mission" class="px-5 md:px-10">
       <div class="max-w-[80rem] mx-auto">
-        <div class="py-12 md:py-24 pt-0">
+        <div class="py-6 md:py-8 pt-0">
           <div class="grid md:grid-cols-2 gap-8 md:gap-20">
             <!-- Content Side -->
             <div class="mt-8 md:mt-16 order-2 md:order-1">

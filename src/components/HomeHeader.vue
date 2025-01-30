@@ -29,7 +29,7 @@
                     </h3>
                   </div>
                   <!-- Button -->
-                  <div class="mt-8 md:mt-12">
+                  <div class="mt-8 md:mt-10">
                     <a
                         href="#events"
                         class="inline-block px-6 md:px-8 py-3 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline"
@@ -43,7 +43,7 @@
           </div>
 
           <!-- Partners Section -->
-          <div class="py-12 md:py-20 pt-0">
+          <div class="py-4 md:py-6 pt-0">
             <div class="mb-8 md:mb-16">
               <div class="text-center">
                 <div class="max-w-3xl mx-auto flex flex-col items-center">
