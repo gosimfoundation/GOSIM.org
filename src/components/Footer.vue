@@ -7,9 +7,9 @@
           <div class="pb-8 md:pb-16">
             <div class="flex flex-col md:flex-row md:justify-between md:items-center space-y-8 md:space-y-0">
               <!-- Logo -->
-              <a href="#" class="flex justify-center md:inline-block">
+              <a href="/#home" class="flex justify-center md:inline-block">
                 <img
-                    src="@assets/images/logo.svg"
+                    src="@/assets/images/logo.svg"
                     loading="lazy"
                     width="119"
                     alt="GOSIM Logo"
@@ -20,15 +20,27 @@
               <!-- Navigation Links -->
               <div class="flex-1">
                 <div class="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-6">
-                  <a href="#about" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">About</a>
-                  <a href="#founders" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Founders</a>
-                  <a href="#events" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Events</a>
+                  <a href="/#about" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">About</a>
+                  <a href="/#founders" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Founders</a>
+                  <a href="/#events" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Events</a>
                   <a href="https://blog.gosim.org/" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Blog</a>
+                  <router-link to="/privacy" class="text-base text-black hover:text-primary transition-colors duration-200 no-underline">Privacy</router-link>
                 </div>
               </div>
 
-              <!-- Empty div for flex spacing - hidden on mobile -->
-              <div class="hidden md:block w-[119px]"></div>
+              <!-- Social Media Icons -->
+              <div class="flex justify-center md:justify-end space-x-4 w-[119px]">
+                <a
+                    href="https://twitter.com/gosimfoundation"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-black hover:text-primary transition-colors duration-200"
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                  </svg>
+                </a>
+              </div>
             </div>
           </div>
 

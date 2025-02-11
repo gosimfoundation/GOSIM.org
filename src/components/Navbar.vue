@@ -3,7 +3,7 @@
     <div class="w-full max-w-[80rem] mx-auto flex items-center justify-between">
       <!-- Logo -->
       <a
-          href="#home"
+          href="/#home"
           class="flex items-center h-14 px-4 md:px-10 shrink-0"
       >
         <img
@@ -58,7 +58,7 @@
           <!-- Mobile CTAs -->
           <div class="md:hidden pt-4">
             <a
-                href="#events"
+                href="/#events"
                 @click="closeMenu"
                 class="block w-full text-center bg-primary hover:bg-secondary text-white rounded-lg py-3 px-6 font-medium transition-colors duration-300 no-underline"
             >
@@ -70,7 +70,7 @@
 
       <!-- Desktop CTA -->
       <a
-          href="#events"
+          href="/#events"
           class="hidden md:inline-flex px-8 py-3 bg-primary hover:bg-secondary text-white font-medium rounded-lg transition-colors duration-300 no-underline"
       >
         Upcoming Events
@@ -86,9 +86,9 @@ export default {
     return {
       isMenuOpen: false,
       navLinks: [
-        { href: "#about", text: "About" },
-        { href: "#founders", text: "Founders" },
-        { href: "#events", text: "Events" },
+        { href: "/#about", text: "About" },
+        { href: "/#founders", text: "Founders" },
+        { href: "/#events", text: "Events" },
         { href: "https://blog.gosim.org/", text: "Blog" },
         // { href: "https://spotlight.gosim.org/", text: "Spotlight" }
       ]
