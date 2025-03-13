@@ -1,24 +1,17 @@
 <template>
   <div class="page-wrapper">
-    <!-- Navbar -->
     <Navbar />
 
-    <!-- Hero / Header (HomeHeader) -->
-    <HomeHeader />
+    <!-- <HomeHeader /> -->
 
-    <!-- Founders -->
-    <Founders />
-
-    <!-- Pillars / Mission -->
     <Pillars />
 
-    <!-- Upcoming Events -->
+    <Founders />
+
     <EventsUpcoming />
 
-    <!-- Past Events -->
     <EventsPast />
 
-    <!-- Footer -->
     <FooterComponent />
   </div>
 </template>
