@@ -4,6 +4,8 @@
 
     <HomeHeader />
 
+    <!-- <Supporters /> -->
+
     <Pillars />
 
     <Founders />
@@ -19,6 +21,7 @@
 <script>
 import Navbar from "../components/Navbar.vue";
 import HomeHeader from "../components/HomeHeader.vue";
+import Supporters from "../components/Supporters.vue";
 import Founders from "../components/Founders.vue";
 import Pillars from "../components/Pillars.vue";
 import EventsUpcoming from "../components/EventsUpcoming.vue";
@@ -30,6 +33,7 @@ export default {
   components: {
     Navbar,
     HomeHeader,
+    Supporters,
     Founders,
     Pillars,
     EventsUpcoming,
