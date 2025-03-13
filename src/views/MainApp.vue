@@ -2,7 +2,7 @@
   <div class="page-wrapper">
     <Navbar />
 
-    <!-- <HomeHeader /> -->
+    <HomeHeader />
 
     <Pillars />
 
