@@ -22,7 +22,7 @@
                   </div>
 
                   <div>
-                    <span class="font-bold">3. GOSIM Fellowship:</span> Beyond the annual gatherings, the heart of GOSIM beats year-round through its Fellowship program. It's an ongoing initiative supporting open-source project development, generously backed by sponsors and grants.
+                    <span class="font-bold">3. GOSIM Spotlight:</span> Beyond the annual gatherings, the heart of GOSIM beats year-round through its Spotlight program. It's an ongoing initiative supporting open-source project development, generously backed by sponsorship and grants.
                   </div>
 
                   <div>
