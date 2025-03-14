@@ -27,8 +27,14 @@
                 <div class="mb-3 md:mb-4">
                   <h2 class="text-2xl md:text-[2.8rem] leading-tight">Michael Yuan</h2>
                 </div>
-                <p class="text-base md:text-lg">
-                  Michael is the maintainer of WasmEdge Runtime, a cloud native WebAssembly sandbox project under CNCF. He is the author of six books on software engineering.
+                <p class="text-base md:text-lg font-normal">
+                  Dr. Michael Yuan is an American entrepreneur and venture investor. He started and exited 3 software companies, and served as a board director for over 10 companies. Michael is the founder and maintainer of Linux Foundation’s open source project, WasmEdge Runtime. He is also the author of 6 books on software engineering published by Prentice Hall, Addison-Wesley, O’Reilly, and Manning. His latest book is Manning’s “Open source LLMs on your own computer”.
+                </p>
+                <p class="text-base md:text-lg font-normal my-5">
+                  In 2022, he co-founded the GOSIM community and series of conferences, based in Singapore, to foster open source collaboration across culture and language barriers.
+                </p>
+                <p class="text-base md:text-lg font-normal">
+                  Michael received a PhD in Astrophysics from the University of Texas at Austin. He lives in Austin with his family.
                 </p>
               </div>
             </div>
@@ -49,8 +55,14 @@
                 <div class="mb-3 md:mb-4">
                   <h2 class="text-2xl md:text-[2.8rem] leading-tight">Jiang Tao</h2>
                 </div>
-                <p class="text-base md:text-lg">
-                  Mr. Jiang Tao is the Founder & Chairman of CSDN, the professional developers community in China. With a dynamic career spanning 30 years, he has melded expertise in software, the internet, and the entrepreneurial realm. He's has led projects like the Giant Handwriting Computer, Kingsoft Ciba, and Haojie Super Software. In addition to founding CSDN, Mr. Tao Jiang also founded Programmer Magazine, ITCAST Education, and Geek Founders Ventures. As an astute investor, Jiang has strategically anchored in over 80 high-tech startups. Deeply rooted in championing software and open-source advances in China, Mr. Jiang Tao served as executive member of the Open Source Development Committee of the Chinese Computer Society, the deputy secretary general of the Chinese Computer Society, the member of the Intelligent Application Branch of the Chinese Software Association, and the executive director of the Chinese Inventors Association.
+                <p class="text-base md:text-lg font-normal">
+                  Mr. Jiang Tao is the Founder & Chairman of CSDN, the premier professional developers community in China. With a dynamic career spanning 30 years, he has melded expertise in software, the internet, and the entrepreneurial realm. He's has led projects like the Giant Handwriting Computer, Kingsoft Ciba, and Haojie Super Software.
+                </p>
+                <p class="text-base md:text-lg font-normal my-5">
+                  In addition to founding CSDN, Mr. Tao Jiang also founded Programmer Magazine, ITCAST Education, and Geek Founders Ventures. As an astute investor, Jiang has strategically anchored in over 80 high-tech startups.
+                </p>
+                <p class="text-base md:text-lg font-normal">
+                  Deeply rooted in championing software and open-source advances in China, Mr. Jiang Tao served as executive member of the Open Source Development Committee of the Chinese Computer Society, the deputy secretary general of the Chinese Computer Society, the member of the Intelligent Application Branch of the Chinese Software Association, and the executive director of the Chinese Inventors Association.
                 </p>
               </div>
             </div>
