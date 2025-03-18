@@ -31,7 +31,7 @@
                   Dr. Michael Yuan is an American entrepreneur and venture investor. He started and exited 3 software companies, and served as a board director for over 10 companies. Michael is the founder and maintainer of Linux Foundation’s open source project, WasmEdge Runtime. He is also the author of 6 books on software engineering published by Prentice Hall, Addison-Wesley, O’Reilly, and Manning. His latest book is Manning’s “Open source LLMs on your own computer”.
                 </p>
                 <p class="text-base md:text-lg font-normal my-5">
-                  In 2022, he co-founded the GOSIM community and series of conferences, based in Singapore, to foster open source collaboration across culture and language barriers.
+                  In 2022, he co-founded the GOSIM community and series of conferences, based in <a href="/src/assets/images/gosim-registration.jpg">Singapore</a>, to foster open source collaboration across culture and language barriers.
                 </p>
                 <p class="text-base md:text-lg font-normal">
                   Michael received a PhD in Astrophysics from the University of Texas at Austin. He lives in Austin with his family.
