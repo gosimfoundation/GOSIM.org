@@ -27,7 +27,15 @@
 
         <!-- Right Content Section -->
         <div class="space-y-4">
-                     <div class="bg-grey rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
+          <div class="bg-grey rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
+            <div class="mb-6">
+              <div class="text-[#333] mb-2">Sep 13-14, 2025</div>
+              <h3 class="text-3xl mb-4">2025 GOSIM Conference & Workshop: Hangzhou, China</h3>
+              <p class="text-sm leading-relaxed mb-6">A confluence of minds from various spheres of the open-source domain, offering a deep dive into the world of open source AI technology trends, strategies, governance, and best practices.</p>
+              <a href="https://hangzhou2025.gosim.org/" target="_blank" class="inline-flex items-center px-6 md:px-8 py-2 mt-8 md:mt-12 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline">Conference Website</a>
+            </div>
+          </div>
+          <div class="bg-slate-200 rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
             <div class="mb-6">
               <div class="text-[#333] mb-2">May 13-17, 2025</div>
               <h3 class="text-3xl mb-4">2025 GOSIM Rust Spotlight: Paris, France</h3>
@@ -35,7 +43,7 @@
               <a href="https://spotlight.gosim.org/rust2025" target="_blank" class="inline-flex items-center px-6 md:px-8 py-2 mt-8 md:mt-12 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline">Conference Website</a>
             </div>
           </div>
-           <div class="bg-grey rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
+          <div class="bg-grey rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
             <div class="mb-6">
               <div class="text-[#333] mb-2">May 6-7, 2025</div>
               <h3 class="text-3xl mb-4">GOSIM AI 2025: Paris, France</h3>
@@ -43,7 +51,7 @@
               <a href="https://paris2025.gosim.org/" target="_blank" class="inline-flex items-center px-6 md:px-8 py-2 mt-8 md:mt-12 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline">Conference Website</a>
             </div>
           </div>
-          <div class="bg-grey rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
+          <div class="bg-slate-200 rounded-lg p-6 md:p-8 w-full md:w-[630px] mx-auto">
             <div class="mb-6">
               <div class="text-[#333] mb-2">May 6-7, 2025</div>
               <h3 class="text-3xl mb-4">GOSIM AI Spotlight: Paris, France</h3>

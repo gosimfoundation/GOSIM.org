@@ -60,18 +60,18 @@
                 <div>
                   <div class="mb-4">
                     <div class="inline-block px-4 py-1 bg-[#006d873b] text-primary rounded-2xl text-sm font-medium">
-                      September 13-14, 2025
+                      May, 2026
                     </div>
                   </div>
 
                   <div class="mb-6 md:mb-8">
                     <div class="text-xl md:text-2xl font-medium"> </div>
                     <div class="my-2">
-                      <div class="text-[3rem] font-medium leading-none">GOSIM Hangzhou 2025</div>
+                      <div class="text-[3rem] font-medium leading-none">GOSIM Conference 2026</div>
                     </div>
                     <p class="text-sm md:text-base leading-relaxed">
                       GOSIM Conference is for Users, Engineers, Strategists, Business Executives,
-                      Architects and Open-Source Experts. With GOSIM Hangzhou 2025, you'll have
+                      Architects and Open-Source Experts. With GOSIM Conference 2026, you'll have
                       the opportunity to network with industry experts, collaborate with
                       fellow open source enthusiasts, and gain invaluable insights from pioneers
                       in their respective fields. Our conference is driven by volunteers who share
@@ -88,17 +88,17 @@
                   </div>
 
                                     <a
-                      href="https://hangzhou2025.gosim.org/"
+                      href="/"
                       target="_blank"
                       class="inline-flex items-center px-6 md:px-8 py-2 mt-8 md:mt-12 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline"
                   >
-                    Event Website
+                    Coming Soon
                   </a>
 
                 </div>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>
