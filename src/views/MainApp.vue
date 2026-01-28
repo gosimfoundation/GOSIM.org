@@ -4,13 +4,13 @@
 
     <HomeHeader />
 
+    <EventsUpcoming />
+
     <!-- <Supporters /> -->
 
     <Pillars />
 
     <Founders />
-
-    <EventsUpcoming />
 
     <EventsPast />
 

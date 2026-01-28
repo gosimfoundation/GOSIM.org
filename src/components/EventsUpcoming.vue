@@ -18,7 +18,7 @@
           </div>
 
           <!-- Events Grid -->
-          <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 justify-center w-full max-w-[1300px] mx-auto">
+          <div class="grid grid-cols-1 lg:grid-cols-1 gap-6 justify-center w-full max-w-[1300px] mx-auto">
             <!-- Event Card 1 -->
             <!-- <div class="bg-grey rounded-lg p-6 md:p-8">
               <div class="flex flex-col h-full">
@@ -58,42 +58,48 @@
             <div class="bg-grey rounded-lg p-6 md:p-8">
               <div class="flex flex-col h-full">
                 <div>
-                  <div class="mb-4">
-                    <div class="inline-block px-4 py-1 bg-[#006d873b] text-primary rounded-2xl text-sm font-medium">
-                      May, 2026
+                  <div class="mb-4 text-center">
+                    <div class="inline-block px-4 py-1 bg-[#006d873b] text-primary rounded-2xl font-medium">
+                      May 5-6, 2026
                     </div>
                   </div>
 
                   <div class="mb-6 md:mb-8">
                     <div class="text-xl md:text-2xl font-medium"> </div>
-                    <div class="my-2">
-                      <div class="text-[3rem] font-medium leading-none">GOSIM Conference 2026</div>
+                    <div class="text-center my-2 mb-3 md:mb-6">
+                      <div class="text-[3rem] font-medium leading-none">GOSIM Paris 2026</div>
                     </div>
                     <p class="text-sm md:text-base leading-relaxed">
-                      GOSIM Conference is for Users, Engineers, Strategists, Business Executives,
-                      Architects and Open-Source Experts. With GOSIM Conference 2026, you'll have
-                      the opportunity to network with industry experts, collaborate with
-                      fellow open source enthusiasts, and gain invaluable insights from pioneers
-                      in their respective fields. Our conference is driven by volunteers who share
-                      a passion for open source and believe in its potential to shape a better future.
+                      GOSIM Paris 2026 is a premier open-source technology conference taking place on May
+                      5-6, 2026 at Station F, the world's largest startup campus in Paris. The event
+                      brings together developers, researchers, and industry leaders to explore the
+                      intersection of artificial intelligence, agents, models, open-source innovation, and emerging
+                      technologies. Building on previous successful GOSIM events across Paris, Shanghai,
+                      Delft, Beijing, and Hangzhou that have collectively drawn thousands of
+                      attendees, GOSIM Paris 2026 offers a platform for collaboration, knowledge
+                      sharing, and technological breakthroughs shaping the future of open-source
+                      software and AI.
                     </p>
                   </div>
 
                   <div class="space-y-4">
-                    <EventFeatureItem text="Insights: Illuminate emerging technological paradigms" />
-                    <EventFeatureItem text="Connections: Engage with the luminaries of the industry" />
-                    <EventFeatureItem text="Collaborations: Forge alliances with open-source leaders" />
-                    <EventFeatureItem text="Investments: Discover open-source sponsorship opportunities" />
-                    <EventFeatureItem text="Participations: Immerse oneself in the vibrant community" />
+                    <EventFeatureItem text="Insights: Explore cutting-edge AI, embodied robotics, and agentic web
+  technologies shaping the open-source landscape" />
+                    <EventFeatureItem text="Connections: Engage with global open-source pioneers and AI innovators at the
+  world's largest startup campus" />
+                    <EventFeatureItem text="Collaborations: Forge alliances with leading open-source foundations, AI
+  researchers, and developer communities" />
+                    <EventFeatureItem text="Investments: Discover sponsorship opportunities to reach thousands of developers and technology decision-makers" />
+                    <EventFeatureItem text="Participations: Immerse yourself in hands-on workshops, hackathons, and
+  co-located events across two dynamic days in Paris" />
                   </div>
-
-                                    <a
-                      href="/"
+                  <div class="text-center ">
+                    <a
+                      href="https://paris2026.gosim.org/"
                       target="_blank"
                       class="inline-flex items-center px-6 md:px-8 py-2 mt-8 md:mt-12 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline"
-                  >
-                    Coming Soon
-                  </a>
+                    >Conference Website</a>
+                  </div>
 
                 </div>
               </div>
