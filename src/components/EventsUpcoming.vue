@@ -60,42 +60,47 @@
                 <div>
                   <div class="mb-4 text-center">
                     <div class="inline-block px-4 py-1 bg-[#006d873b] text-primary rounded-2xl font-medium">
-                      May 5-6, 2026
+                      October 16-17, 2026
                     </div>
                   </div>
 
                   <div class="mb-6 md:mb-8">
                     <div class="text-xl md:text-2xl font-medium"> </div>
                     <div class="text-center my-2 mb-3 md:mb-6">
-                      <div class="text-[3rem] font-medium leading-none">GOSIM Paris 2026</div>
+                      <div class="text-[3rem] font-medium leading-none">GOSIM Shenzhen 2026</div>
                     </div>
                     <p class="text-sm md:text-base leading-relaxed">
-                      GOSIM Paris 2026 is a premier open-source technology conference taking place on May
-                      5-6, 2026 at Station F, the world's largest startup campus in Paris. The event
-                      brings together developers, researchers, and industry leaders to explore the
-                      intersection of artificial intelligence, agents, models, open-source innovation, and emerging
-                      technologies. Building on previous successful GOSIM events across Paris, Shanghai,
-                      Delft, Beijing, and Hangzhou that have collectively drawn thousands of
-                      attendees, GOSIM Paris 2026 offers a platform for collaboration, knowledge
-                      sharing, and technological breakthroughs shaping the future of open-source
-                      software and AI.
+                      GOSIM Shenzhen 2026 is a premier open-source technology conference taking place on
+                      October 16-17, 2026 in Shenzhen, China's fastest-moving hardware city. The event
+                      brings together developers, researchers, and industry leaders to explore open-source
+                      AI, robotics, edge systems, and developer infrastructure. Leveraging Shenzhen's
+                      unique ecosystem—where hardware sourcing, manufacturing, and software development
+                      converge—the conference enables open-source projects to rapidly transition from code
+                      repositories to working prototypes.
+                    </p>
+                    <p class="text-sm md:text-base leading-relaxed mt-4">
+                      Building on previous successful GOSIM events
+                      across Paris, Shanghai, Delft, Beijing, and Hangzhou that have collectively drawn
+                      thousands of attendees, GOSIM Shenzhen 2026 offers a platform for collaboration,
+                      knowledge sharing, and technological breakthroughs at the intersection of software
+                      and hardware innovation.
                     </p>
                   </div>
 
                   <div class="space-y-4">
-                    <EventFeatureItem text="Insights: Explore cutting-edge AI, embodied robotics, and agentic web
-  technologies shaping the open-source landscape" />
-                    <EventFeatureItem text="Connections: Engage with global open-source pioneers and AI innovators at the
-  world's largest startup campus" />
-                    <EventFeatureItem text="Collaborations: Forge alliances with leading open-source foundations, AI
-  researchers, and developer communities" />
+                    <EventFeatureItem text="Insights: Explore agentic AI systems, multi-agent platforms, and edge AI
+  shaping the open-source landscape" />
+                    <EventFeatureItem text="Connections: Engage with global open-source pioneers and robotics innovators in
+  China's premier hardware ecosystem" />
+                    <EventFeatureItem text="Collaborations: Forge alliances with leading open-source foundations,
+  researchers, and embodied AI communities" />
                     <EventFeatureItem text="Investments: Discover sponsorship opportunities to reach thousands of developers and technology decision-makers" />
                     <EventFeatureItem text="Participations: Immerse yourself in hands-on workshops, hackathons, and
-  co-located events across two dynamic days in Paris" />
+  spotlight sessions across two dynamic days in Shenzhen" />
                   </div>
                   <div class="text-center ">
                     <a
-                      href="https://paris2026.gosim.org/"
+                      href="https://shenzhen2026.gosim.org/"
                       target="_blank"
                       class="inline-flex items-center px-6 md:px-8 py-2 mt-8 md:mt-12 bg-primary hover:bg-secondary text-white rounded font-medium transition-colors duration-300 no-underline"
                     >Conference Website</a>
